@@ -1,11 +1,11 @@
 {
   "name": "webmin",
-  "version": "1.6.90",
+  "version": "1.6.91",
   "description": "Webmin is a web-based interface for system administration for Unix.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tjwebb/node-webmin.git"
+    "url": "git://github.com/xtuple/node-webmin.git"
   },
   "slug": {
     "tag": "1.690",
@@ -26,9 +26,9 @@
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjwebb/node-webmin/issues"
+    "url": "https://github.com/xtuple/node-webmin/issues"
   },
-  "homepage": "https://github.com/tjwebb/node-webmin",
+  "homepage": "https://github.com/xtuple/node-webmin",
   "dependencies": {
     "xmin": "^0.9.0"
   }
