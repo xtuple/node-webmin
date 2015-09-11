@@ -1,6 +1,6 @@
 {
   "name": "webmin",
-  "version": "1.6.93",
+  "version": "1.6.94",
   "description": "Webmin is a web-based interface for system administration for Unix.",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,7 @@
   },
   "slug": {
     "tag": "1.690",
-    "url": "http://prdownloads.sourceforge.net/webadmin/webmin-1.690.tar.gz"
+    "url": "http://downloads.sourceforge.net/project/webadmin/webmin/1.690/webmin-1.690.tar.gz"
   },
   "bin": {
     "webmin": "index.js"
